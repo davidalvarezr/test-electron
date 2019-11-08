@@ -3,6 +3,8 @@
 ## Docs
 
 - [Build a Desktop Application with Electron and Angular](https://www.sitepoint.com/build-a-desktop-application-with-electron-and-angular/)
+- [electron-builder](https://github.com/electron-userland/electron-builder)
+- [A complete guide to packaging your Electron app](https://medium.com/how-to-electron/a-complete-guide-to-packaging-your-electron-app-1bdc717d739f)
 
 ## Recipe
 In order to make it work, you have to be sure that the Angular project is build and can therefore, run without Angular Server: [Here](https://github.com/angular/angular/issues/13948#issuecomment-302727428)
